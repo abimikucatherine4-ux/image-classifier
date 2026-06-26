@@ -1,8 +1,6 @@
 # image-classifier
-Based on your uploaded notebook, your project is an **Image Classification** machine learning application. Here's a concise, GitHub-ready README write-up tailored to that project:
 
 ---
-
 # 🖼️ Image Classification using Deep Learning
 
 ## 📌 Project Overview
